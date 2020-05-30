@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(gray, whitesmoke);
+}
+
+canvas {
+    margin-top: 10px;
+    margin-left: 33%;
+    box-shadow: 2px 2px 20px 15px gray;
+    border: 5px solid  #38024D;
+    border-radius: 10px;
+}
+
+h1, p {
+    text-align: center;
+    font-family: Montserrat;
+}
+
+h1 {
+    color: #38024D;
+}
